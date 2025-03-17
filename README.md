@@ -17,10 +17,6 @@ En este proyecto, podrás crear una lista de amigos y realizar un sorteo aleator
 
 ## :heavy_check_mark: Prueba la aplicación
 
-Accede a la aplicación haciendo clic en este enlace :point_down:
-
-**[Ir a la página de Amigo Secreto][(https://sofiacollazos.github.io/Amigo-secreto/)]**  
-
 ## :hammer: Funcionalidades
 
 - :white_check_mark: **Agregar nombres**: Ingresa el nombre de un amigo en el campo de texto y agrégalo a la lista con el botón **"Añadir"**.
@@ -38,7 +34,7 @@ Accede a la aplicación haciendo clic en este enlace :point_down:
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://sofiacollazos.github.io/Amigo-secreto/
+   git clone https://franciscov32.github.io/Amigo-secreto/
    cd Amigo-secreto
 
 2. Abre el archivo index.html en tu navegador.
