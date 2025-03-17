@@ -45,10 +45,6 @@ Accede a la aplicación haciendo clic en este enlace :point_down:
 
 ## :warning: Requisitos
 Navegador web actualizado (Google Chrome, Firefox, Edge, etc.).
-
-## :raising_hand: Autores
-- **[Sofía Collazos](https://github.com/Sofiacollazos)** - Implementación de la lógica en JavaScript.  
-- **Alura LATAM - G8 ONE** 
-
+ 
 ## :page_facing_up: Licencia
 Este proyecto es de código abierto y puede ser utilizado con fines educativos.
